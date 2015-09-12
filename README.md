@@ -13,3 +13,5 @@ I included a script (populateDB.py) that you can use to setup the DB with the us
 
 Last, but not least: generally `config.py` file should not be shared because contains sensitive information, but in this case it's needed to make all work and it's not containing so much ;)
 
+If you have any improvement or suggestion, please let me know!
+
