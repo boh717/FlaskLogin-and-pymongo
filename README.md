@@ -1,5 +1,3 @@
-Full source code of the web application from my blog post ([link](https://runningcodes.net/flask-login-and-mongodb/)).
-
 Keep in mind that it's not a complete web application, but a proof of concept on how to make work flask-login with mongoDB (and pymongo).
 
 To install the requirements simply run the following command (you need pip to be installed on your system):
