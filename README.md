@@ -1,4 +1,4 @@
-Keep in mind that it's not a complete web application, but a proof of concept on how to make work flask-login with mongoDB (and pymongo).
+Keep in mind that this is not a complete web application, but a proof of concept on how to make work flask-login with mongoDB (and pymongo).
 
 To install the requirements simply run the following command (you need pip to be installed on your system):
 `sudo pip install -r requirements.txt`
