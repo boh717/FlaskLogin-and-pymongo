@@ -5,7 +5,7 @@ Jinja2==2.7.3
 MarkupSafe==0.23
 WTForms==2.0.2
 Werkzeug==0.15.3
-ipython==3.0.0
+ipython==7.16.3
 itsdangerous==0.24
 pymongo==2.8
 wsgiref==0.1.2
